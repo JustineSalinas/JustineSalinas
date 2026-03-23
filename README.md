@@ -38,7 +38,7 @@ I believe that even the most advanced AI and Analytics are only as good as the d
 
 #### **Development Environments & Version Control**
 <p align="left">
-  <a href="https://antigravity.com/" target="_blank"><img src="https://img.shields.io/badge/Anti%20Gravity-IDE-blue?style=for-the-badge&logo=arduino&logoColor=white" /></a>
+  <a href="https://www.arduino.cc/en/software" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" title="Anti-Gravity IDE" /></a>
   <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
