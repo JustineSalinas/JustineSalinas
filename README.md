@@ -33,18 +33,22 @@ I believe that even the most advanced AI and Analytics are only as good as the d
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" /></a>
+  <a href="https://www.canva.com/" target="_blank"><img src="https://skillicons.dev/icons?i=canva" /></a>
 </p>
 
-#### **Backend & Runtime**
+#### **Development Environments & Version Control**
+<p align="left">
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea" /></a>
+  </p>
+
+#### **Backend, Runtime & Hardware**
 <p align="left">
   <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" /></a>
-</p>
-
-#### **Hardware & Version Control**
-<p align="left">
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
 </p>
 
 ---
@@ -58,7 +62,6 @@ I believe that even the most advanced AI and Analytics are only as good as the d
 ---
 
 ### Connect with me:
-* **LinkedIn:** [Insert Link Here](https://www.linkedin.com/in/adrian-justin-salinas-a4768b226/)]
-* **Email:** [ajsalinas005@gmail.com]//skillicons.dev/icons?i=nextjs" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
-  <a href="https://developer
+* **LinkedIn:** [https://www.linkedin.com/in/adrian-justin-salinas-a4768b226/]
+* **Email:** [ajsalinas005@gmail.com]
+  
