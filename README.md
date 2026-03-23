@@ -9,7 +9,7 @@ I am a **driven Information Technology sophomore** dedicated to mastering the mo
 ### My Path: Data Engineering
 I believe that even the most advanced AI and Analytics are only as good as the data powering them. My mission is to ensure data integrity, availability, and scalability at every step of the lifecycle.
 
-- **Goal:** Evolving into a versatile Data Engineer for complex architectural challenges.
+**Goal:** Evolving into a versatile Data Engineer for complex architectural challenges.
 
 ---
 
