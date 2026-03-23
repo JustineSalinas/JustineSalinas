@@ -1,6 +1,8 @@
-Adrian Justin J. Salinas 
+# Adrian J. Salinas
 
-### Aspiring Data Engineer | IT Sophomore | Lifelong Learner
+<p align="center">
+  <h3> Aspiring Data Engineer | IT Sophomore | Lifelong Learner</h3>
+</p>
 
 I am a **driven Information Technology sophomore** dedicated to mastering the modern data stack and building scalable systems. My academic journey is currently focused on bridging the gap between software development and data architecture.
 
@@ -15,19 +17,11 @@ I am actively pivoting my skills toward **Data Engineering**. I find my "flow st
 
 ---
 
-### ech Stack & Tools
+### Languages and Tools
 
-**Languages & Databases**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Frameworks & DevOps**
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,css,express,figma,git,html,java,js,mysql,nextjs,nodejs,php,py,react,tailwindcss,ts" alt="Tech Stack" />
+</p>
 
 ---
 
@@ -41,5 +35,3 @@ I am actively pivoting my skills toward **Data Engineering**. I find my "flow st
 ### How to reach me:
 * **LinkedIn:** [Insert Link Here]
 * **Email:** [Insert Email Here]
-
----
