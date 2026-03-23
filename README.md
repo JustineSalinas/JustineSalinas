@@ -1,7 +1,7 @@
 # Adrian J. Salinas
 
 <p align="center">
-  <h3> Aspiring Data Engineer or Software Engineer | IT Sophomore | Lifelong Learner</h3>
+  <h3> Aspiring Data Engineer or Software Engineer | IT Sophomore in the Philippines </h3>
 </p>
 
 I am a **driven Information Technology sophomore** dedicated to mastering the modern data stack and building scalable systems. My academic journey is currently focused on bridging the gap between software development and data architecture.
