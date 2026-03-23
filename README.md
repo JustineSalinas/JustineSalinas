@@ -1,6 +1,6 @@
 # Adrian Justin J. Salinas
 
-### Aspiring Data Engineer | IT Sophomore in the Philippines
+### Aspiring Data Engineer or Software Engineer | IT Sophomore in the Philippines
 
 I am a **driven Information Technology sophomore** dedicated to mastering the modern data stack and building scalable systems. My academic journey is currently focused on bridging the gap between software development and data architecture.
 
@@ -9,8 +9,6 @@ I am a **driven Information Technology sophomore** dedicated to mastering the mo
 ### My Path: Data Engineering
 I believe that even the most advanced AI and Analytics are only as good as the data powering them. My mission is to ensure data integrity, availability, and scalability at every step of the lifecycle.
 
-- **Focus:** Building robust, automated systems for data tracking and processing.
-- **Learning:** ETL/ELT processes, Cloud Data Warehousing, and Apache Spark.
 - **Goal:** Evolving into a versatile Data Engineer for complex architectural challenges.
 
 ---
