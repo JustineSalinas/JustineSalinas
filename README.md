@@ -1,6 +1,6 @@
-# Adrian Justin J. Salinas
+# Developer Adrian Justin J. Salinas
 
-### Aspiring Data Engineer | IT Sophomore | Lifelong Learner
+### Aspiring Data Engineer | IT Sophomore in the Philippines
 
 I am a **driven Information Technology sophomore** dedicated to mastering the modern data stack and building scalable systems. My academic journey is currently focused on bridging the gap between software development and data architecture.
 
@@ -19,34 +19,17 @@ I find my "flow state" when designing efficient data pipelines, optimizing schem
 
 #### **Core Programming & Data**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,mysql,php,js,ts" alt="Programming & Data" />
+  <a href="https://www.oracle.com/java/" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" /></a>
 </p>
 
 #### **Frontend & Design**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma" alt="Frontend & Design" />
-</p>
-
-#### **Backend & Runtime**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
-</p>
-
-#### **Hardware & Version Control**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,git" alt="Hardware & Git" />
-</p>
-
----
-
-### Featured Projects
-
-* **Fundly** - A personal finance web application focused on data tracking and visualization.
-* **PharmaTrack** - Lead developer for an automated attendance system for pharmaceutical departments.
-* **AugieEats** - Canteen ordering system focusing on UI/UX and process flow.
-
----
-
-### Connect with me:
-* **LinkedIn:** [Insert Link Here]
-* **Email:** [Insert Email Here]
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+  <a href="https://developer
