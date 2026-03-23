@@ -1,4 +1,4 @@
-## Developer Adrian Justin J. Salinas
+### Developer Adrian Justin J. Salinas
 
 ### Aspiring Data Engineer | IT Sophomore | Lifelong Learner
 
