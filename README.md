@@ -64,5 +64,5 @@ I believe that even the most advanced AI and Analytics are only as good as the d
 ### Connect with me:
 * **LinkedIn:** [https://www.linkedin.com/in/adrian-justin-salinas-a4768b226/]
 * **Email:** [ajsalinas005@gmail.com]
-* **Resume:** [Resume Salinas.pdf](https://github.com/user-attachments/files/26188846/Resume.Salinas.pdf)
+* **Resume:** [Salinas Resume.pdf](https://github.com/user-attachments/files/26188868/Salinas.Resume.pdf)
 
