@@ -1,4 +1,4 @@
-# <p align="center">Developer Adrian Justin J. Salinas</p>
+## Developer Adrian Justin J. Salinas
 
 ### Aspiring Data Engineer | IT Sophomore | Lifelong Learner
 
