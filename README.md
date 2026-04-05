@@ -1,4 +1,4 @@
-# Adrian Justin J. Salinas
+# Full Stack Developer - Adrian Justin J. Salinas
 
 ### Aspiring Data Engineer or Software Engineer | IT Sophomore in the Philippines
 
