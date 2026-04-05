@@ -56,6 +56,9 @@ I believe that even the most advanced AI and Analytics are only as good as the d
 ### Featured Projects
 
 * **PharmaTrack** - Project Manager and Lead Developer for an automated attendance system.
+* **EduSync** - A Centralized Student Data Aggregation Pipeline System.
+* **SignSync** - An AI-Driven Real-Time Sign Language to Text/Speech
+Translator for Public Service Kiosks.
 * **Fundly** - A personal finance web application focused on data tracking and visualization. (on-hold)
 
 
