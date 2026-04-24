@@ -1,6 +1,6 @@
 # Full-Stack Developer - Adrian Justin J. Salinas
 
-### Aspiring Data Engineer or Software Engineer | IT Sophomore in the Philippines
+### Full-Stack Developer with a focus on Data Engineering| IT Sophomore in the Philippines
 
 I am a **driven Information Technology sophomore** dedicated to mastering the modern data stack and building scalable systems. My academic journey is currently focused on bridging the gap between software development and data architecture.
 
