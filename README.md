@@ -6,13 +6,6 @@ I am a **driven Information Technology sophomore** dedicated to mastering the mo
 
 ---
 
-### My Path: Data Engineering
-I believe that even the most advanced AI and Analytics are only as good as the data powering them. My mission is to ensure data integrity, availability, and scalability at every step of the lifecycle.
-
-**Goal:** Evolving into a versatile Data Engineer for complex architectural challenges.
-
----
-
 ### Languages and Tools
 
 #### **Core Programming & Data**
@@ -57,6 +50,7 @@ I believe that even the most advanced AI and Analytics are only as good as the d
 
 * **PharmaTrack** - Project Manager and Lead Developer for an automated attendance system.
 * **Commit** - Solo-built agile workspace for developers combining Pomodoro focus sessions, a Markdown code journal, and task management with Supabase persistence and PWA offline support.
+* **Solmate** - Web-based financial and telemetry dashboard that bridges the gap between hardware conversion and capital. It acts as the digital brain for the E-Bangka.
 * **SignSync** - An AI-Driven Real-Time Sign Language to Text/Speech
 Translator for Public Service Kiosks.
 
