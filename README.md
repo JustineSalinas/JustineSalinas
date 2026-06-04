@@ -1,7 +1,7 @@
 # Adrian Salinas
 ### Digital Architect & Software Engineer
 
-I am an Information Technology sophomore dedicated to bridging the gap between software development and data engineering. My current academic and professional journey is focused on building reliable data foundations and designing scalable, high-impact systems.
+IT sophomore bridging software development and data engineering. Focused on building reliable data foundations and designing scalable systems.
 
 ---
 
@@ -21,22 +21,22 @@ I am an Information Technology sophomore dedicated to bridging the gap between s
 * React • Next.js • Tailwind CSS • HTML5/CSS3 • Figma
 
 **Backend, BaaS & Deployment**
-* Node.js • Supabase • Vercel • MediaPipe
+* Node.js • Supabase • Vercel • Firebase
 
 **Architecture & Project Management**
-* Git & GitHub • Notion • Linear • ClickUp
+* Git & GitHub • Notion
 
 ---
 
 ### Featured Projects
 
-* **PharmaTrack** | *Project Manager*
+* **PharmaTrack** | *Project Manager - Lead Developer*
   An automated attendance tracking system designed specifically for the Department of Pharmacy. It efficiently supports 700+ students without relying on any physical hardware components.
 
-* **E-Ferry**
+* **E-Ferry** | *Hackathon 1st Runner Up | Full-Stack Developer*
   A web-based financial and telemetry dashboard that bridges the gap between hardware conversion and capital. It acts as the digital brain for the E-Bangka.
 
-* **Famly** 
+* **Famly** | *Solo Developer*
   A collaborative dark-themed family financial tracker and planning board designed to monitor tuition assessments, milestone savings goals, debt ledgers, and future family project proposals.
 
 * **Commit** | *Solo Developer*
