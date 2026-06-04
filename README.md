@@ -1,13 +1,13 @@
 # Adrian Salinas
 ### Digital Architect & Software Engineer
 
-IT sophomore bridging software development and data engineering. Focused on building reliable data foundations and designing scalable systems.
+Bridging software development and data engineering. Focused on building reliable data foundations and designing scalable systems.
 
 ---
 
 ### Currently
 * **Cascade Development Group (CDG)** - Running an IT solutions startup based in Iloilo that offers comprehensive technical and development services. Visit us at [cdg-official.vercel.app](https://cdg-official.vercel.app).
-* Pursuing a BS in Information Technology.
+* BS in Information Technology - Second Year Level.
 
 ---
 
