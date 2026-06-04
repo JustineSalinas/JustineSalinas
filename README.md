@@ -1,62 +1,50 @@
-# Full-Stack Developer - Adrian Justin J. Salinas
+# Adrian Salinas
+### Digital Architect & Software Engineer
 
-### Full-Stack Developer
-
-I am a **Information Technology sophomore** dedicated to mastering the modern data stack and building scalable systems. My academic journey is currently focused on bridging the gap between software development and data architecture.
+I am an Information Technology sophomore dedicated to bridging the gap between software development and data engineering. My current academic and professional journey is focused on building reliable data foundations and designing scalable, high-impact systems.
 
 ---
 
-### Languages and Tools
+### Currently
+* **Cascade Development Group (CDG)** - Running an IT solutions startup based in Iloilo that offers comprehensive technical and development services. Visit us at [cdg-official.vercel.app](https://cdg-official.vercel.app).
+* Pursuing a BS in Information Technology.
 
-#### **Core Programming & Data**
-<p align="left">
-  <a href="https://www.oracle.com/java/" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" /></a>
-</p>
+---
 
-#### **Frontend & Design**
-<p align="left">
-  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" /></a>
-  <a href="https://www.canva.com/" target="_blank"><img src="https://skillicons.dev/icons?i=canva" /></a>
-</p>
+### Tech Stack & Tools
+*Here are the technologies I actively use to build and deploy systems:*
 
-#### **Development Environments & Version Control**
-<p align="left">
-  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea" /></a>
-  </p>
+**Core Programming & Data**
+* Python • Java • JavaScript / TypeScript • SQL (PostgreSQL, MySQL)
 
-#### **Backend, Runtime & Hardware**
-<p align="left">
-  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" /></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" /></a>
-</p>
+**Frontend & Design**
+* React • Next.js • Tailwind CSS • HTML5/CSS3 • Figma
+
+**Backend, BaaS & Deployment**
+* Node.js • Supabase • Vercel • MediaPipe
+
+**Architecture & Project Management**
+* Git & GitHub • Notion • Linear • ClickUp
 
 ---
 
 ### Featured Projects
 
-* **PharmaTrack** - Project Manager and Lead Developer for an automated attendance system.
-* **Commit** - Solo-built agile workspace for developers combining Pomodoro focus sessions, a Markdown code journal, and task management with Supabase persistence and PWA offline support.
-* **Solmate** - Web-based financial and telemetry dashboard that bridges the gap between hardware conversion and capital. It acts as the digital brain for the E-Bangka.
-* **SignSync** - An AI-Driven Real-Time Sign Language to Text/Speech
-Translator for Public Service Kiosks.
+* **PharmaTrack** | *Project Manager*
+  An automated attendance tracking system designed specifically for the Department of Pharmacy. It efficiently supports 700+ students without relying on any physical hardware components.
+
+* **E-Ferry**
+  A web-based financial and telemetry dashboard that bridges the gap between hardware conversion and capital. It acts as the digital brain for the E-Bangka.
+
+* **Famly** 
+  A collaborative dark-themed family financial tracker and planning board designed to monitor tuition assessments, milestone savings goals, debt ledgers, and future family project proposals.
+
+* **Commit** | *Solo Developer*
+  An agile workspace for developers combining Pomodoro focus sessions, a Markdown code journal, and task management with Supabase persistence and PWA offline support.
 
 ---
 
-### Connect with me:
-* **LinkedIn:** [https://www.linkedin.com/in/adrian-justin-salinas-a4768b226/]
-* **Email:** [ajsalinas005@gmail.com]
-* **Resume:** [[Salinas Resume.pdf](https://github.com/user-attachments/files/26188868/Salinas.Resume.pdf)] (not updated).
+### Let's Connect
+
+* **LinkedIn:** [adrian-justin-salinas-a4768b226](https://www.linkedin.com/in/adrian-justin-salinas-a4768b226/)
+* **Email:** [ajsalinas005@gmail.com](mailto:ajsalinas005@gmail.com)
