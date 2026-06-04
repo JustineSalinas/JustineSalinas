@@ -30,16 +30,16 @@ Bridging software development and data engineering. Focused on building reliable
 
 ### Featured Projects
 
-* **PharmaTrack** | *Project Manager - Lead Developer* 
+* **PharmaTrack** | *Project Manager - Lead Developer* <br>
   An automated attendance tracking system designed specifically for the Department of Pharmacy. It efficiently supports 700+ students without relying on any physical hardware components.
 
-* **E-Ferry** | *Hackathon 1st Runner Up | Full-Stack Developer* 
+* **E-Ferry** | *Hackathon 1st Runner Up | Full-Stack Developer* <br>
   A web-based financial and telemetry dashboard that bridges the gap between hardware conversion and capital. It acts as the digital brain for the E-Bangka.
 
-* **Famly** | *Solo Developer* 
+* **Famly** | *Solo Developer* <br>
   A collaborative dark-themed family financial tracker and planning board designed to monitor tuition assessments, milestone savings goals, debt ledgers, and future family project proposals.
 
-* **Commit** | *Solo Developer* 
+* **Commit** | *Solo Developer* <br>
   An agile workspace for developers combining Pomodoro focus sessions, a Markdown code journal, and task management with Supabase persistence and PWA offline support.
 
 ---
