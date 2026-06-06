@@ -1,5 +1,5 @@
 # Adrian Salinas
-### Digital Architect & Software Engineer
+### AI Engineer
 
 Bridging software development and data engineering. Focused on building reliable data foundations and designing scalable systems.
 
