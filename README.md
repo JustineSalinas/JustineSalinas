@@ -50,4 +50,3 @@ Bridging software development and data engineering. Focused on building reliable
 * **Portfolio:** [ajsalinas.vercel.app](https://ajsalinas.vercel.app)
 * **LinkedIn:** [adrian-justin-salinas-a4768b226](https://www.linkedin.com/in/adrian-justin-salinas-a4768b226/)
 * **Email:** [ajsalinas005@gmail.com](mailto:ajsalinas005@gmail.com)
-* **GitHub:** [@JustineSalinas](https://github.com/JustineSalinas)
