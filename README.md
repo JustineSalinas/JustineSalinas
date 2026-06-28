@@ -42,8 +42,7 @@ Bridging software development and data engineering. Focused on building reliable
 * **Famly** | *Solo Developer* <br>
   A collaborative, dark-themed financial tracker and Progressive Web App (PWA) designed to manage household financial visibility. Tracks tuition assessments, savings milestones, and debt ledgers with real-time Supabase synchronization and offline fallback.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JustineSalinas&theme=aura&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustineSalinas&theme=aura&hide_border=true&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### Connect with me
