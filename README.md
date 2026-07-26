@@ -1,13 +1,11 @@
 # Adrian Justin J. Salinas
 ### Software Engineer
 
-Bridging software development and data engineering. Focused on building reliable data foundations and designing scalable systems.
-
 ---
 
 ### Currently
 * **Founder & AI Engineer** at **Cascade Development Group (CDG)** – Running an IT solutions startup delivering web development, database architecture, and technical consulting. Visit us at [cdg-official.vercel.app](https://cdg-official.vercel.app).
-* **BS in Information Technology** – Second Year Level at the University of San Agustin (Cumulative GWA: 1.85).
+* **BS in Information Technology** – Third Year Level at the University of San Agustin 
 
 ---
 
@@ -15,7 +13,7 @@ Bridging software development and data engineering. Focused on building reliable
 *Here are the technologies I actively use to build and deploy systems:*
 
 **Core Programming & Data**
-* Python • Java • JavaScript / TypeScript • SQL (PostgreSQL, MySQL, PLpgSQL) • REST APIs
+* Python • Java • JavaScript / TypeScript • SQL (PostgreSQL, MySQL, PLpgSQL) •
 
 **Frontend & Design**
 * React • Next.js (App Router) • Tailwind CSS • HTML5/CSS3 • Figma
