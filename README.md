@@ -4,7 +4,7 @@
 ---
 
 ### Currently
-* **Founder** at **Cascade Development Group (CDG)** – Running an IT solutions startup delivering web development, database architecture, and technical consulting. Visit us at [cdg-official.vercel.app](https://cdg-official.vercel.app).
+* **Founder** at **Cascade Development Group (CDG)** – Running an IT solutions startup. Visit us at [cdg-official.vercel.app](https://cdg-official.vercel.app).
 * **BS in Information Technology** – Third Year Level at the University of San Agustin 
 
 ---
