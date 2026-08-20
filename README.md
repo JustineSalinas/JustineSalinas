@@ -1,5 +1,5 @@
 # Adrian Justin J. Salinas
-### IT Student / Software Engineer
+### Full-Stack Developer  ·  AI/ML Specialization  ·  Technical Founder
 
 ---
 
