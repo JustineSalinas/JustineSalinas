@@ -14,7 +14,6 @@
 
 ### Connect with me
 
-* **Resume:** [Download Resume](https://raw.githubusercontent.com/JustineSalinas/README.md/main/ajsalinas%20resume.pdf)
 * **Portfolio:** [ajsalinas.vercel.app](https://ajsalinas.vercel.app)
 * **LinkedIn:** [adrian-justin-salinas-a4768b226](https://www.linkedin.com/in/adrian-justin-salinas-a4768b226/)
 * **Email:** [ajsalinas005@gmail.com](mailto:ajsalinas005@gmail.com)
